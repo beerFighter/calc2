@@ -3,7 +3,7 @@
     <div class="hello mobile-table wrapper">
       <table border="1" rules="all" cellspacing="10" cellpadding="0" class="iksweb">
         <tr>
-          <th>№</th>
+          <th>№ </th>
           <th>ШИР. cm</th>
           <th>ВЫС. cm</th>
           <th>Площ. m2</th>
